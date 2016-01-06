@@ -1,2 +1,2 @@
-# liquid-coding-website
-Liquid coding website
+# LiquidCodingMVC_Site
+MVC Website for LiquidCoding. 
