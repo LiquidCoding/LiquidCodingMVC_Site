@@ -1,0 +1,23 @@
+{
+  "name": "LiquidCoding.Biz",
+  "authors": [
+    "Craig Weysham <craig@liquidcoding.biz>; Brent Wood <brent@liquidcoding.biz>; Jay Morgen <jay@liquidcoding.biz>"
+  ],
+  "description": "Liquid coding website",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "liquidcoding.biz",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  }
+}
