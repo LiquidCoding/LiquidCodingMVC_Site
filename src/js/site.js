@@ -10,3 +10,7 @@
 //        e.preventDefault();
 //    });
 //});
+$(function () {
+    var theYear = new Date().getFullYear();
+    $("#copy-year").html(theYear);
+});
