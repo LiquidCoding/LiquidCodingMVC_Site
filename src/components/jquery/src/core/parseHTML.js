@@ -1,7 +1,7 @@
 define([
-	"../core",
+	" core",
 	"./var/rsingleTag",
-	"../manipulation" // buildFragment
+	" manipulation" // buildFragment
 ], function( jQuery, rsingleTag ) {
 
 // data: string of html

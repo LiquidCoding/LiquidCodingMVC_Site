@@ -1,6 +1,6 @@
 define([
-	"../core",
-	"../var/support"
+	" core",
+	" var/support"
 ], function( jQuery, support ) {
 
 (function() {

@@ -1,5 +1,5 @@
 define([
-	"../core"
+	" core"
 ], function( jQuery ) {
 
 // Support: Android 2.3

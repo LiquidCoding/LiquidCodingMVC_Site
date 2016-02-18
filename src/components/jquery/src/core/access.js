@@ -1,5 +1,5 @@
 define([
-	"../core"
+	" core"
 ], function( jQuery ) {
 
 // Multifunctional method to get and set values of a collection

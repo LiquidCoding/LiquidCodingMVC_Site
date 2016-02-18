@@ -1,6 +1,6 @@
 define([
-	"../core",
-	"../ajax"
+	" core",
+	" ajax"
 ], function( jQuery ) {
 
 // Install script dataType

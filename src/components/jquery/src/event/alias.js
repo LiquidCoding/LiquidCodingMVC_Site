@@ -1,6 +1,6 @@
 define([
-	"../core",
-	"../event"
+	" core",
+	" event"
 ], function( jQuery ) {
 
 jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblclick " +

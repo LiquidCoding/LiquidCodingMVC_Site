@@ -1,7 +1,7 @@
 define([
-	"../core",
-	"../core/init",
-	"../deferred"
+	" core",
+	" core/init",
+	" deferred"
 ], function( jQuery ) {
 
 // The deferred used on DOM ready
